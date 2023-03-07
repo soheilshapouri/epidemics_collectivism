@@ -1,5 +1,6 @@
 # epidemics_collectivism
-This repository contains files related to the epidemics and collectivism project 
+This repository contains files related to the epidemics and collectivism project. 
+The first paper is publisheed and the second one is under review. 
 
 Shapouri, S. (2022). Of Germs and Cultures; Parasite Stress as the Origin of Individualism-Collectivism. Evolutionary Psychological Science. https://doi.org/10.1007/s40806-022-00335-y
 
